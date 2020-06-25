@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestJudger" tests="17" skipped="0" failures="0" errors="0" timestamp="2020-06-24T07:15:00" hostname="LAPTOP-OOGHUOIG" time="0.016">
+  <properties/>
+  <testcase name="testWhiteWinWithBothThreeOfAKind" classname="TestJudger" time="0.003"/>
+  <testcase name="testTieWithBothStraightFlush" classname="TestJudger" time="0.001"/>
+  <testcase name="testWhiteWinWithBothFlush" classname="TestJudger" time="0.0"/>
+  <testcase name="testWhiteWinWithBothStraightFlush" classname="TestJudger" time="0.001"/>
+  <testcase name="testTieWithBothFlush" classname="TestJudger" time="0.0"/>
+  <testcase name="testTieWithBothOffsuit" classname="TestJudger" time="0.001"/>
+  <testcase name="testTieWithBothStraight" classname="TestJudger" time="0.0"/>
+  <testcase name="testTieWithBothTwoPairs" classname="TestJudger" time="0.001"/>
+  <testcase name="testTieWithBothOnePair" classname="TestJudger" time="0.0"/>
+  <testcase name="testGivenSample1" classname="TestJudger" time="0.0"/>
+  <testcase name="testGivenSample2" classname="TestJudger" time="0.0"/>
+  <testcase name="testGivenSample3" classname="TestJudger" time="0.001"/>
+  <testcase name="testGivenSample4" classname="TestJudger" time="0.0"/>
+  <testcase name="testWhiteWinWithBothOffsuit" classname="TestJudger" time="0.001"/>
+  <testcase name="testWhiteWinWithBothStraight" classname="TestJudger" time="0.0"/>
+  <testcase name="testWhiteWinWithBothTwoPairs" classname="TestJudger" time="0.001"/>
+  <testcase name="testWhiteWinWithBothOnePair" classname="TestJudger" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
